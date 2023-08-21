@@ -9,3 +9,6 @@ IP list of known scanners.
 
 ## NOTICE
 [https://notice.go.jp/](https://notice.go.jp/)
+
+## RAPID7 Project Sonar
+[https://opendata.rapid7.com/about/](https://opendata.rapid7.com/about/)
