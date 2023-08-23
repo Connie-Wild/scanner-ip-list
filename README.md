@@ -24,3 +24,21 @@ IP list of known scanners.
 
 ## The Shadow Server Foundation
 [https://www.shadowserver.org/](https://www.shadowserver.org/)
+
+## InterneTTL project
+[http://www.internettl.org/](http://www.internettl.org/)
+
+## University of Michigan
+[https://cse.engin.umich.edu/about/resources/connection-attempts/](https://cse.engin.umich.edu/about/resources/connection-attempts/)
+
+## internet-measurement
+[https://internet-measurement.com/](https://internet-measurement.com/)
+
+## Academy for Internet Research
+[https://academyforinternetresearch.org/](https://academyforinternetresearch.org/)
+
+## CyberResilience
+[https://cyberresilience.io/](https://cyberresilience.io/)
+
+## Internet Census Group
+[https://www.internet-census.org/](https://www.internet-census.org/)
