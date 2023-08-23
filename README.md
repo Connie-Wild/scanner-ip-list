@@ -15,3 +15,9 @@ IP list of known scanners.
 
 ## NETSCOUT
 [https://www.internet-albedo.net/](https://www.internet-albedo.net/)
+
+## Alpha Strike Labs
+[https://www.alphastrike.io/](https://www.alphastrike.io/)
+
+## Normshield
+[https://tchelebi.io/](https://tchelebi.io/)
