@@ -21,3 +21,6 @@ IP list of known scanners.
 
 ## Normshield
 [https://tchelebi.io/](https://tchelebi.io/)
+
+## The Shadow Server Foundation
+[https://www.shadowserver.org/](https://www.shadowserver.org/)
