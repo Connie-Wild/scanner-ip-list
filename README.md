@@ -42,3 +42,6 @@ IP list of known scanners.
 
 ## Internet Census Group
 [https://www.internet-census.org/](https://www.internet-census.org/)
+
+## Cortex Xpanse (Palo Alto Networks)
+[https://www.paloaltonetworks.com/cortex/cortex-xpanse](https://www.paloaltonetworks.com/cortex/cortex-xpanse)
