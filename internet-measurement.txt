@@ -1,3 +1,4 @@
+# *.census.internet-measurement.com
 87.236.176.0/24
 193.163.125.0/24
 68.183.53.77
