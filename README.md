@@ -45,3 +45,6 @@ IP list of known scanners.
 
 ## Cortex Xpanse (Palo Alto Networks)
 [https://www.paloaltonetworks.com/cortex/cortex-xpanse](https://www.paloaltonetworks.com/cortex/cortex-xpanse)
+
+## Open Port Statistics
+[http://openportstats.com/](http://openportstats.com/)
