@@ -1,4 +1,4 @@
-# .internet-census.org
+# *.internet-census.org
 104.237.140.169
 107.151.182.42
 107.151.182.46

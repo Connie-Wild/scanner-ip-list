@@ -1,7 +1,10 @@
-# *.census.internet-measurement.com
+# *.monitoring.internet-measurement.com
 87.236.176.0/24
+
+# *.census.internet-measurement.com
 193.163.125.0/24
-68.183.53.77
+
+# *.tidalcoinage.internet-measurement.com
 104.248.203.191
 104.248.204.195
 142.93.191.98
@@ -11,3 +14,4 @@
 188.166.26.88
 206.189.7.178
 209.97.152.248
+68.183.53.77
