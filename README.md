@@ -1,6 +1,12 @@
 # scanner-ip-list
 IP list of known scanners.
 
+## Shodan
+[https://www.shodan.io/](https://www.shodan.io/)
+
+## Censys
+[https://search.censys.io/](https://search.censys.io/)
+
 ## The Recyber Project
 [https://www.recyber.net/](https://www.recyber.net/)
 
