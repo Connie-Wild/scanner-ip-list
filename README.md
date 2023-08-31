@@ -54,3 +54,6 @@ IP list of known scanners.
 
 ## Open Port Statistics
 [http://openportstats.com/](http://openportstats.com/)
+
+## ScanOpticon project
+[https://optout.scanopticon.com/](https://optout.scanopticon.com/)
