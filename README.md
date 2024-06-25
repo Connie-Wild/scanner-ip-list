@@ -60,3 +60,9 @@ IP list of known scanners.
 
 ## IPIP
 [https://en.ipip.net/about.html](https://en.ipip.net/about.html)
+
+## netsecscan.net
+[http://www.netsecscan.net/](http://www.netsecscan.net/)
+
+## Group-IB
+[https://group-ib.com/](https://group-ib.com/)
