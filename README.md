@@ -68,5 +68,5 @@ IP list of known scanners.
 [https://group-ib.com/](https://group-ib.com/)
 
 ## LeakIX
-[https://leakix.net/about](https://leakix.net/about)  
+[https://leakix.net/about](https://leakix.net/about)
 [https://scan.leakix.net/](https://scan.leakix.net/)
