@@ -7,6 +7,30 @@ IP list of known scanners.
 ## Censys
 [https://search.censys.io/](https://search.censys.io/)
 
+Official Censys documentation:
+[https://docs.censys.com/docs/opt-out-of-data-collection](https://docs.censys.com/docs/opt-out-of-data-collection)
+
+IPv4 scanner ranges:
+
+```
+66.132.159.0/24
+66.132.148.0/24
+66.132.153.0/24
+66.132.224.0/24
+66.132.186.0/24
+66.132.195.0/24
+66.132.172.0/24
+162.142.125.0/24
+167.94.138.0/24
+167.94.145.0/24
+167.94.146.0/24
+167.248.133.0/24
+199.45.154.0/24
+199.45.155.0/24
+206.168.34.0/24
+206.168.35.0/24
+```
+
 ## The Recyber Project
 [https://www.recyber.net/](https://www.recyber.net/)
 
